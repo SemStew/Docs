@@ -9,4 +9,4 @@ Za 1. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí ne
  * Tomáš Vlk -1 bod
  * Tomáš Cicvárek -1 bod
 ### Analytická dokumentace
- * Stáhněte si z repozitáře 1. iterace -> soubor analyticka_dokumentace.pdf
+ Stáhněte si z repozitáře 1. iterace -> soubor analyticka_dokumentace.pdf
