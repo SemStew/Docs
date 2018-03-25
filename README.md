@@ -1,11 +1,12 @@
-# SemStew - Semantický CMS pro restauraèní zaøízení
+# SemStew - SemantickÃ½ CMS pro restauraÄnÃ­ zaÅ™Ã­zenÃ­
+Pokud vÃ¡s zajÃ­mÃ¡ vÃ­ce informacÃ­ o projektu SemStew, pÅ™eÄtÄ›te si prosÃ­m Wiki v tomto repozitÃ¡Å™i.
 ## 1. Iterace
-Za 1. iteraci mohu pøerozdìlit 10 bodù. Všech 10 bodù jsem jako vedoucí nevyužila, ale body jsem pøerozdìlila následovnì:
-### Pøerozdìlení bodù za 1. iteraci:
- * Michaela Tauchmanová +1 bod
- * Eliška Forštová +2 body
- * David Šmolík -1 bod
- * Tomáš Vlk -1 bod
- * Tomáš Cicvárek -1 bod
-### Analytická dokumentace
- * Stáhnìte si z repozitáøe soubor analyticka_dokumentace.pdf
+Za 1. iteraci mohu pÅ™erozdÄ›lit 10 bodÅ¯. VÅ¡ech 10 bodÅ¯ jsem jako vedoucÃ­ nevyuÅ¾ila, ale body jsem pÅ™erozdÄ›lila nÃ¡sledovnÄ›:
+### PÅ™erozdÄ›lenÃ­ bodÅ¯ za 1. iteraci:
+ * Michaela TauchmanovÃ¡ +1 bod
+ * EliÅ¡ka ForÅ¡tovÃ¡ +2 body
+ * David Å molÃ­k -1 bod
+ * TomÃ¡Å¡ Vlk -1 bod
+ * TomÃ¡Å¡ CicvÃ¡rek -1 bod
+### AnalytickÃ¡ dokumentace
+ * StÃ¡hnÄ›te si z repozitÃ¡Å™e 1. iterace -> soubor analyticka_dokumentace.pdf
