@@ -15,8 +15,8 @@ Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí ne
 ### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
 ------------ | ------------
-Michaela Tauchmanová | 0
+Michaela Tauchmanová | -1
 Eliška Forštová | 0
 David Šmolík | 0
-Tomáš Vlk | 0
+Tomáš Vlk | +1
 Tomáš Cicvárek | 0
