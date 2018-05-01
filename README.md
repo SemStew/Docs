@@ -11,7 +11,7 @@ David Šmolík | -1
 Tomáš Vlk | -1 
 Tomáš Cicvárek | -1
 ## 2. Iterace
-Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila, ale body jsem přerozdělila následovně:
+Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a ani jsem body nepřerozdělovala:
 ### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
 ------------ | ------------
