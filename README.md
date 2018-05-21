@@ -21,12 +21,12 @@ David Šmolík | 0
 Tomáš Vlk | 0
 Tomáš Cicvárek | 0
 ## 3. Iterace
-Za 3. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí patřičně využila a to takto:
+Za 3. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 3. iteraci:
 Jméno | Body
 ------------ | ------------
-Michaela Tauchmanová | 0
+Michaela Tauchmanová | +1
 Eliška Forštová | 0
-David Šmolík | 0
-Tomáš Vlk | 0
-Tomáš Cicvárek | 0
+David Šmolík | -1
+Tomáš Vlk | +6
+Tomáš Cicvárek | -6
