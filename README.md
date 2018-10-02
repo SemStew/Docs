@@ -1,6 +1,14 @@
 # SemStew - Semantický CMS pro restaurační zařízení
 Pokud vás zajímá více informací o projektu SemStew, přečtěte si prosím Wiki v tomto repozitáři.
-## 1. Iterace
+## Příprava na AR 2018/2019
+Projekt je překlopí do jiného systému (Python, Django,...), opraví se nefunkční nebo nedodělané funkcionality. Z toho vzniknou i dokumenty k porovnání systému dříve a nyní. Tým prořídl o 2 lidi (hanba jim!), tudíž projekt se uskuteční ve 3 lidech:
+Jméno | Username
+------------ | ------------
+Michaela Tauchmanová | tauchmi1
+Eliška Forštová | forsteli
+David Šmolík | smolidav 
+
+## 1. Iterace (B182)
 Za 1. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila, ale body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 1. iteraci:
 Jméno | Body
@@ -10,7 +18,7 @@ Eliška Forštová | +2
 David Šmolík | -1 
 Tomáš Vlk | -1 
 Tomáš Cicvárek | -1
-## 2. Iterace
+## 2. Iterace (B182)
 Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a ani jsem body nepřerozdělovala:
 ### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
@@ -20,7 +28,7 @@ Eliška Forštová | 0
 David Šmolík | 0
 Tomáš Vlk | 0
 Tomáš Cicvárek | 0
-## 3. Iterace
+## 3. Iterace (B182)
 Za 3. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 3. iteraci:
 Jméno | Body
