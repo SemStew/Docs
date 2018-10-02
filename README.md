@@ -2,6 +2,7 @@
 Pokud vás zajímá více informací o projektu SemStew, přečtěte si prosím Wiki v tomto repozitáři.
 ## Příprava na AR 2018/2019
 Projekt je překlopí do jiného systému (Python, Django,...), opraví se nefunkční nebo nedodělané funkcionality. Z toho vzniknou i dokumenty k porovnání systému dříve a nyní. Tým prořídl o 2 lidi (hanba jim!), tudíž projekt se uskuteční ve 3 lidech:
+
 Jméno | Username
 ------------ | ------------
 Michaela Tauchmanová | tauchmi1
