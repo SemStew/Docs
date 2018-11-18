@@ -18,8 +18,8 @@ Michaela Tauchmanová | -2
 Eliška Forštová | -2
 David Šmolík | +4
 
-## 2. Iterace (B172)
-Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a ani jsem body nepřerozdělovala:
+## 2. Iterace (B181)
+Za 2. iteraci mohu přerozdělit 6 bodů. Deadline je 16.12.2018!!
 
 # Minulý semestr B172 - SP1
 
