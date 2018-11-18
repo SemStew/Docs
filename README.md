@@ -9,7 +9,21 @@ Michaela Tauchmanová | tauchmi1
 Eliška Forštová | forsteli
 David Šmolík | smolidav 
 
-## 1. Iterace (B182)
+## 1. Iterace (B181)
+Za 1. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí využila a body jsem přerozdělila následovně:
+### Přerozdělení bodů za 1. iteraci:
+Jméno | Body
+------------ | ------------
+Michaela Tauchmanová | -2
+Eliška Forštová | -2
+David Šmolík | +4
+
+## 2. Iterace (B172)
+Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a ani jsem body nepřerozdělovala:
+
+# Minulý semestr B172 - SP1
+
+## 1. Iterace (B172)
 Za 1. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila, ale body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 1. iteraci:
 Jméno | Body
@@ -19,7 +33,7 @@ Eliška Forštová | +2
 David Šmolík | -1 
 Tomáš Vlk | -1 
 Tomáš Cicvárek | -1
-## 2. Iterace (B182)
+## 2. Iterace (B172)
 Za 2. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a ani jsem body nepřerozdělovala:
 ### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
@@ -29,7 +43,7 @@ Eliška Forštová | 0
 David Šmolík | 0
 Tomáš Vlk | 0
 Tomáš Cicvárek | 0
-## 3. Iterace (B182)
+## 3. Iterace (B172)
 Za 3. iteraci mohu přerozdělit 10 bodů. Všech 10 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 3. iteraci:
 Jméno | Body
