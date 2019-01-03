@@ -27,12 +27,12 @@ Michaela Tauchmanová | 0
 Eliška Forštová | -2
 David Šmolík | +2
 
-## Aktuální bodový stav (B181) - Po 1. iteraci
+## Aktuální bodový stav (B181) - Po 2. iteraci
 Jméno | Body
 ------------ | ------------
-Michaela Tauchmanová | 11
-Eliška Forštová | 11
-David Šmolík | 17
+Michaela Tauchmanová | 21
+Eliška Forštová | 19
+David Šmolík | 29
 
 # Minulý semestr B172 - SP1
 
