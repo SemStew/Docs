@@ -27,7 +27,7 @@ Michaela Tauchmanová | 0
 Eliška Forštová | -2
 David Šmolík | +2
 
-# Aktuální bodový stav (B181) - Po 1. iteraci
+## Aktuální bodový stav (B181) - Po 1. iteraci
 Jméno | Body
 ------------ | ------------
 Michaela Tauchmanová | 11
