@@ -19,7 +19,20 @@ Eliška Forštová | -2
 David Šmolík | +4
 
 ## 2. Iterace (B181)
-Za 2. iteraci mohu přerozdělit 6 bodů. Deadline je 16.12.2018!!
+Za 2. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
+### Přerozdělení bodů za 1. iteraci:
+Jméno | Body
+------------ | ------------
+Michaela Tauchmanová | 0
+Eliška Forštová | -2
+David Šmolík | +2
+
+# Aktuální bodový stav (B181) - Po 1. iteraci
+Jméno | Body
+------------ | ------------
+Michaela Tauchmanová | 11
+Eliška Forštová | 11
+David Šmolík | 17
 
 # Minulý semestr B172 - SP1
 
