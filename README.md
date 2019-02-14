@@ -18,9 +18,9 @@ Michaela Tauchmanová | -2
 Eliška Forštová | -2
 David Šmolík | +4
 
-## 2. Iterace (B181)
+## 3. Iterace (B181)
 Za 2. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
-### Přerozdělení bodů za 1. iteraci:
+### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
 ------------ | ------------
 Michaela Tauchmanová | 0
@@ -32,6 +32,22 @@ Jméno | Body
 ------------ | ------------
 Michaela Tauchmanová | 21
 Eliška Forštová | 19
+David Šmolík | 29
+
+## 3. Iterace (B181)
+Za 3. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
+### Přerozdělení bodů za 3. iteraci:
+Jméno | Body
+------------ | ------------
+Michaela Tauchmanová | -1
+Eliška Forštová | +1
+David Šmolík | 0
+
+## Aktuální bodový stav (B181) - Po 3. iteraci
+Jméno | Body
+------------ | ------------
+Michaela Tauchmanová | 20
+Eliška Forštová | 20
 David Šmolík | 29
 
 # Minulý semestr B172 - SP1
