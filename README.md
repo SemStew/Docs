@@ -18,7 +18,7 @@ Michaela Tauchmanová | -2
 Eliška Forštová | -2
 David Šmolík | +4
 
-## 3. Iterace (B181)
+## 2. Iterace (B181)
 Za 2. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí nevyužila a body jsem přerozdělila následovně:
 ### Přerozdělení bodů za 2. iteraci:
 Jméno | Body
