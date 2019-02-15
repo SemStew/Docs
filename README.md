@@ -39,16 +39,16 @@ Za 3. iteraci mohu přerozdělit 6 bodů. Všech 6 bodů jsem jako vedoucí nevy
 ### Přerozdělení bodů za 3. iteraci:
 Jméno | Body
 ------------ | ------------
-Michaela Tauchmanová | -1
-Eliška Forštová | +1
-David Šmolík | 0
+Michaela Tauchmanová | +2
+Eliška Forštová | +3
+David Šmolík | -5
 
 ## Aktuální bodový stav (B181) - Po 3. iteraci
 Jméno | Body
 ------------ | ------------
-Michaela Tauchmanová | 20
-Eliška Forštová | 20
-David Šmolík | 29
+Michaela Tauchmanová | 22
+Eliška Forštová | 22
+David Šmolík | 24
 
 # Minulý semestr B172 - SP1
 
